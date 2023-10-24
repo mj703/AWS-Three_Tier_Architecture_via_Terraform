@@ -28,7 +28,7 @@ The data tier stores and manages the application's data. This could be a databas
 3. Create the necessary tables and set up data replication or backups.
 
 ## Architecture Diagram
-
+![diagram](https://github.com/mj703/AWS-Three_Tier_Architecture_via_Terraform/assets/108948595/93495b1c-322c-49b6-aa6b-90302ac42cb4)
 
 ## Conclusion
 
